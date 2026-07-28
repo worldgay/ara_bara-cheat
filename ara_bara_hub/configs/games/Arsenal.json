@@ -1,0 +1,10 @@
+{
+  "aimbot": {
+    "enabled": false,
+    "fov": 90
+  },
+  "esp": {
+    "enabled": false,
+    "boxes": true
+  }
+}

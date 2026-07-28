@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "theme": "dark",
+  "auto_load": true,
+  "EnablePythonBot": false,
+  "EnableCppMacro": false
+}
